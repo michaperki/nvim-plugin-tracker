@@ -1,11 +1,6 @@
 # Neovim Plugin Tracker"
 
-# Initial commit
-git add .
-git commit -m "Initial commit of Neovim Plugin Tracker"
-
 # Instructions for GitHub setup
-Write-Host @"
 Now, follow these steps:
 1. Go to GitHub and create a new repository named 'nvim-plugin-tracker'
 2. Then, run these commands in your PowerShell:
