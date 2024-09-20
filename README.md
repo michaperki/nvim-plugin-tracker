@@ -1,4 +1,4 @@
-"# Neovim Plugin Tracker"
+# Neovim Plugin Tracker"
 
 # Initial commit
 git add .
