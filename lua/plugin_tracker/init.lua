@@ -1,3 +1,5 @@
+-- lua/plugin_tracker/init.lua
+
 local M = {}
 
 M.usage_data = {}
@@ -28,6 +30,11 @@ function M.generate_report()
     report = report .. "\n"
   end
   return report
+end
+
+function M.display_report()
+  local report = M.generate_report()
+  vim.api.nvim_echo({{report, "Normal"}}, true, {})
 end
 
 function M.setup()
