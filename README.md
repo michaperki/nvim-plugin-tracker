@@ -1,4 +1,4 @@
-# Neovim Plugin Tracker"
+# Neovim Plugin Tracker
 
 # Instructions for GitHub setup
 Now, follow these steps:
